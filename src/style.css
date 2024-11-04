@@ -1,1 +1,19 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  justify-content: center;
+}
+#excuse {
+  text-align: center;
+  justify-content: center;
+  text-decoration: underline;
+  font-size: 20px;
+  margin-top: 20px;
+}
